@@ -6,5 +6,5 @@ while num_int >= 0:
         max_int=num_int #vistum haestu toluna nuna
         num_int = int(input("Input a number: "))
     else:
-    num_int = int(input("Input a number: "))
+        num_int = int(input("Input a number: "))
 print("The maximum is", max_int)    # Do not change this line
